@@ -49,6 +49,14 @@ namespace Seccion_11_Ejercicio
                 //obtenemos una lista de todos los archivos y subdirectorios
 
                 string[] archivosSubdirectorios = Directory.GetFileSystemEntries(directorioPa);
+
+                //mostramos el contenido del directorio en una tabla
+                MostrarTabla(archivosSubdirectorios);
+
+
+                //le pedimos al usuario que ingrese una opcion de las mostradas en la tabla, según su indice. O le damos la opción de salir (s) del programa, o de navegar hacia atras en la ruta (a)
+                Console.Write("Ingresa el numero de la opcion que deseas explorar (o 'a' para ir hacia atrás en la ruta, 'n' para ingresar una nueva ruta o 's' para salir.");
+                string opcion = Console.ReadLine();
             }
         }
 
@@ -74,7 +82,23 @@ namespace Seccion_11_Ejercicio
             {
                 // extraemos solo el nombre del archivo o subdirectorio de la posicion en la que nos encontremos y se lo asignamos a una variable "nombre"
                 nombre = Path.GetFileName(archivosSubdirectoriosPa[i]);
+
+                if (Directory.Exists(archivosSubdirectoriosPa[i]))
+                {
+                    //Entonces el tipo sera subdirectorio
+                    tipo = "subdirectorio";
+                }
+                else
+                {
+                    //si no, entonces extraemos la extension del archivo en el que estemos y se la asignamos a "tipo"
+                    tipo = Path.GetExtension(archivosSubdirectoriosPa[i]);
+                }
+
+                //mostramos un indice para el elemento en el que estemos, su nombre y su tipo
+                Console.WriteLine($"{i,-8}{nombre,-50}{tipo,-13}");
             }
+
+            Console.WriteLine();
         }
     }
 }
