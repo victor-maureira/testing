@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\bin\Debug\Seccion8.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\bin\Debug\Seccion8.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\bin\Debug\Seccion8.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\obj\Debug\Seccion8.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\obj\Debug\Seccion8.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\obj\Debug\Seccion8.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\obj\Debug\Seccion8.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8\Seccion8\obj\Debug\Seccion8.exe.config

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion10Estructuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F702369A-8B28-444C-8E8A-10A6229B6781}|Seccion10Estructuras\\Seccion10Estructuras.csproj|c:\\users\\victor.maureira.g\\source\\repos\\seccion10estructuras\\seccion10estructuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F702369A-8B28-444C-8E8A-10A6229B6781}|Seccion10Estructuras\\Seccion10Estructuras.csproj|solutionrelative:seccion10estructuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion10Estructuras\\Seccion10Estructuras\\Program.cs",
+              "RelativeDocumentMoniker": "Seccion10Estructuras\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion10Estructuras\\Seccion10Estructuras\\Program.cs",
+              "RelativeToolTip": "Seccion10Estructuras\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:13:17.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\bin\Debug\Seccion7.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\bin\Debug\Seccion7.exe
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\bin\Debug\Seccion7.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\obj\Debug\Seccion7.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\obj\Debug\Seccion7.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\obj\Debug\Seccion7.exe
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\obj\Debug\Seccion7.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion7\Seccion7\obj\Debug\Seccion7.exe.config

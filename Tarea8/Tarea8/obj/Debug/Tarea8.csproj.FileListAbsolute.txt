@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.exe.config
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.exe
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\bin\Debug\Tarea8.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.exe
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea8\Tarea8\obj\Debug\Tarea8.exe.config

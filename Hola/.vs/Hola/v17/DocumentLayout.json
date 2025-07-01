@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Hola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2B8258-653E-4C3A-9161-34E6C23E3332}|Hola\\Hola.csproj|c:\\users\\victor.maureira.g\\source\\repos\\hola\\hola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2B8258-653E-4C3A-9161-34E6C23E3332}|Hola\\Hola.csproj|solutionrelative:hola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Hola\\Hola\\Program.cs",
+              "RelativeDocumentMoniker": "Hola\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Hola\\Hola\\Program.cs",
+              "RelativeToolTip": "Hola\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:29:08.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

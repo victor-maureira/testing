@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\bin\Debug\Hola.exe.config
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\bin\Debug\Hola.exe
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\bin\Debug\Hola.pdb
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\obj\Debug\Hola.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\obj\Debug\Hola.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\obj\Debug\Hola.exe
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\obj\Debug\Hola.pdb
+C:\Users\victor.maureira.g\source\repos\Hola\Hola\obj\Debug\Hola.exe.config

@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\bin\Debug\Seccion6.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\bin\Debug\Seccion6.exe
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\bin\Debug\Seccion6.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\obj\Debug\Seccion6.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\obj\Debug\Seccion6.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\obj\Debug\Seccion6.exe
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\obj\Debug\Seccion6.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion6\Seccion6\obj\Debug\Seccion6.exe.config

@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\bin\Debug\Seccion10TareaParte2.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\bin\Debug\Seccion10TareaParte2.exe
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\bin\Debug\Seccion10TareaParte2.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\obj\Debug\Seccion10TareaParte2.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\obj\Debug\Seccion10TareaParte2.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\obj\Debug\Seccion10TareaParte2.exe
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\obj\Debug\Seccion10TareaParte2.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion10TareaParte2\Seccion10TareaParte2\obj\Debug\Seccion10TareaParte2.exe.config

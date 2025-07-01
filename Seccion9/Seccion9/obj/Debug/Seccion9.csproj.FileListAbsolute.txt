@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\bin\Debug\Seccion9.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\bin\Debug\Seccion9.exe
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\bin\Debug\Seccion9.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\obj\Debug\Seccion9.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\obj\Debug\Seccion9.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\obj\Debug\Seccion9.exe
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\obj\Debug\Seccion9.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion9\Seccion9\obj\Debug\Seccion9.exe.config

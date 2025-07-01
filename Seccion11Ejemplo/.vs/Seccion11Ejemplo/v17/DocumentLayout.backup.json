@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion11Ejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA14AA2-C2A7-49C9-AF48-05E8AEA71F62}|Seccion11Ejemplo\\Seccion11Ejemplo.csproj|c:\\users\\victor.maureira.g\\source\\repos\\seccion11ejemplo\\seccion11ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA14AA2-C2A7-49C9-AF48-05E8AEA71F62}|Seccion11Ejemplo\\Seccion11Ejemplo.csproj|solutionrelative:seccion11ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion11Ejemplo\\Seccion11Ejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Seccion11Ejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion11Ejemplo\\Seccion11Ejemplo\\Program.cs",
+              "RelativeToolTip": "Seccion11Ejemplo\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAqwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:13:43.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

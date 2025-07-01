@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\bin\Debug\Seccion13.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\bin\Debug\Seccion13.exe
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\bin\Debug\Seccion13.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\obj\Debug\Seccion13.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\obj\Debug\Seccion13.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\obj\Debug\Seccion13.exe
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\obj\Debug\Seccion13.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion13\Seccion13\obj\Debug\Seccion13.exe.config

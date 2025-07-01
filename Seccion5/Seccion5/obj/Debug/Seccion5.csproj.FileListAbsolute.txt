@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\bin\Debug\Seccion5.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\bin\Debug\Seccion5.exe
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\bin\Debug\Seccion5.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\obj\Debug\Seccion5.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\obj\Debug\Seccion5.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\obj\Debug\Seccion5.exe
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\obj\Debug\Seccion5.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion5\Seccion5\obj\Debug\Seccion5.exe.config

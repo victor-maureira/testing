@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\obj\Debug\Seccion_12.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\obj\Debug\Seccion_12.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\bin\Debug\Seccion_12.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\bin\Debug\Seccion_12.exe
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\bin\Debug\Seccion_12.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\obj\Debug\Seccion_12.exe
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\obj\Debug\Seccion_12.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion_12\Seccion_12\obj\Debug\Seccion_12.exe.config

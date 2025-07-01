@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\bin\Debug\Seccion10Ejercicio.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\bin\Debug\Seccion10Ejercicio.exe
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\bin\Debug\Seccion10Ejercicio.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\obj\Debug\Seccion10Ejercicio.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\obj\Debug\Seccion10Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\obj\Debug\Seccion10Ejercicio.exe
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\obj\Debug\Seccion10Ejercicio.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion10Ejercicio\Seccion10Ejercicio\obj\Debug\Seccion10Ejercicio.exe.config

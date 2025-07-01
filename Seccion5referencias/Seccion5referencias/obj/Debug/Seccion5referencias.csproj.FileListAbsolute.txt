@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\bin\Debug\Seccion5referencias.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\bin\Debug\Seccion5referencias.exe
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\bin\Debug\Seccion5referencias.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\obj\Debug\Seccion5referencias.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\obj\Debug\Seccion5referencias.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\obj\Debug\Seccion5referencias.exe
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\obj\Debug\Seccion5referencias.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion5referencias\Seccion5referencias\obj\Debug\Seccion5referencias.exe.config

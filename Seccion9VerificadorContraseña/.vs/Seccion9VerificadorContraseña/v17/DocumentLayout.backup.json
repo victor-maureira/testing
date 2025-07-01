@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion9VerificadorContrase\u00F1a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD9704A-07A0-4D8E-AA4A-A5B73526BAB8}|Seccion9VerificadorContrase\u00F1a\\Seccion9VerificadorContrase\u00F1a.csproj|c:\\users\\victor.maureira.g\\source\\repos\\seccion9verificadorcontrase\u00F1a\\seccion9verificadorcontrase\u00F1a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD9704A-07A0-4D8E-AA4A-A5B73526BAB8}|Seccion9VerificadorContrase\u00F1a\\Seccion9VerificadorContrase\u00F1a.csproj|solutionrelative:seccion9verificadorcontrase\u00F1a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion9VerificadorContrase\u00F1a\\Seccion9VerificadorContrase\u00F1a\\Program.cs",
+              "RelativeDocumentMoniker": "Seccion9VerificadorContrase\u00F1a\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion9VerificadorContrase\u00F1a\\Seccion9VerificadorContrase\u00F1a\\Program.cs",
+              "RelativeToolTip": "Seccion9VerificadorContrase\u00F1a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:50:15.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\bin\Debug\Seccion11Directorio.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\bin\Debug\Seccion11Directorio.exe
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\bin\Debug\Seccion11Directorio.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\obj\Debug\Seccion11Directorio.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\obj\Debug\Seccion11Directorio.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\obj\Debug\Seccion11Directorio.exe
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\obj\Debug\Seccion11Directorio.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion11Directorio\Seccion11Directorio\obj\Debug\Seccion11Directorio.exe.config

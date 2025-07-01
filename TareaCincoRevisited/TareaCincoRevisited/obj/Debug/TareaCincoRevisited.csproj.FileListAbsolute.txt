@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\bin\Debug\TareaCincoRevisited.exe.config
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\bin\Debug\TareaCincoRevisited.exe
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\bin\Debug\TareaCincoRevisited.pdb
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\obj\Debug\TareaCincoRevisited.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\obj\Debug\TareaCincoRevisited.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\obj\Debug\TareaCincoRevisited.exe
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\obj\Debug\TareaCincoRevisited.pdb
+C:\Users\victor.maureira.g\source\repos\TareaCincoRevisited\TareaCincoRevisited\obj\Debug\TareaCincoRevisited.exe.config

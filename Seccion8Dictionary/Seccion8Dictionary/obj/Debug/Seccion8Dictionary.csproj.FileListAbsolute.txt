@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\bin\Debug\Seccion8Dictionary.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\bin\Debug\Seccion8Dictionary.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\bin\Debug\Seccion8Dictionary.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\obj\Debug\Seccion8Dictionary.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\obj\Debug\Seccion8Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\obj\Debug\Seccion8Dictionary.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\obj\Debug\Seccion8Dictionary.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8Dictionary\Seccion8Dictionary\obj\Debug\Seccion8Dictionary.exe.config

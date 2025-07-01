@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65203DA4-DF8E-4137-B627-502E002DB781}|Seccion13\\Seccion13.csproj|c:\\users\\victor.maureira.g\\source\\repos\\seccion13\\seccion13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65203DA4-DF8E-4137-B627-502E002DB781}|Seccion13\\Seccion13.csproj|solutionrelative:seccion13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion13\\Seccion13\\Program.cs",
+              "RelativeDocumentMoniker": "Seccion13\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion13\\Seccion13\\Program.cs",
+              "RelativeToolTip": "Seccion13\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwLoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:55:12.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

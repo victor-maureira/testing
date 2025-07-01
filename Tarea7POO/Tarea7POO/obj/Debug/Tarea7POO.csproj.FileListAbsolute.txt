@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\bin\Debug\Tarea7POO.exe.config
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\bin\Debug\Tarea7POO.exe
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\bin\Debug\Tarea7POO.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\obj\Debug\Tarea7POO.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\obj\Debug\Tarea7POO.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\obj\Debug\Tarea7POO.exe
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\obj\Debug\Tarea7POO.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea7POO\Tarea7POO\obj\Debug\Tarea7POO.exe.config

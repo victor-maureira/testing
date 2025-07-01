@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\bin\Debug\Seccion8ColeccionQueue.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\bin\Debug\Seccion8ColeccionQueue.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\bin\Debug\Seccion8ColeccionQueue.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\obj\Debug\Seccion8ColeccionQueue.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\obj\Debug\Seccion8ColeccionQueue.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\obj\Debug\Seccion8ColeccionQueue.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\obj\Debug\Seccion8ColeccionQueue.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8ColeccionQueue\Seccion8ColeccionQueue\obj\Debug\Seccion8ColeccionQueue.exe.config

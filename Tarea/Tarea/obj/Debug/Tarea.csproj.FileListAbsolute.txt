@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\obj\Debug\Tarea.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea\Tarea\obj\Debug\Tarea.exe.config

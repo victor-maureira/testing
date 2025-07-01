@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\bin\Debug\Seccion10Estructuras.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\bin\Debug\Seccion10Estructuras.exe
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\bin\Debug\Seccion10Estructuras.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\obj\Debug\Seccion10Estructuras.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\obj\Debug\Seccion10Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\obj\Debug\Seccion10Estructuras.exe
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\obj\Debug\Seccion10Estructuras.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion10Estructuras\Seccion10Estructuras\obj\Debug\Seccion10Estructuras.exe.config

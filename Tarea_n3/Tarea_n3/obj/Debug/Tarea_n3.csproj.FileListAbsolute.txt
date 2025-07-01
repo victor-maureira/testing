@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\bin\Debug\Tarea_n3.exe.config
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\bin\Debug\Tarea_n3.exe
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\bin\Debug\Tarea_n3.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\obj\Debug\Tarea_n3.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\obj\Debug\Tarea_n3.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\obj\Debug\Tarea_n3.exe
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\obj\Debug\Tarea_n3.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea_n3\Tarea_n3\obj\Debug\Tarea_n3.exe.config

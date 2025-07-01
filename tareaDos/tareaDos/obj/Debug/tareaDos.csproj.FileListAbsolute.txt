@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\bin\Debug\tareaDos.exe.config
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\bin\Debug\tareaDos.exe
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\bin\Debug\tareaDos.pdb
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\obj\Debug\tareaDos.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\obj\Debug\tareaDos.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\obj\Debug\tareaDos.exe
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\obj\Debug\tareaDos.pdb
+C:\Users\victor.maureira.g\source\repos\tareaDos\tareaDos\obj\Debug\tareaDos.exe.config

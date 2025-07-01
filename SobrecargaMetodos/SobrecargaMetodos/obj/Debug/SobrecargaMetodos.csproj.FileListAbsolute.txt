@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.exe.config
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.exe
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\bin\Debug\SobrecargaMetodos.pdb
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.exe
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.pdb
+C:\Users\victor.maureira.g\source\repos\SobrecargaMetodos\SobrecargaMetodos\obj\Debug\SobrecargaMetodos.exe.config

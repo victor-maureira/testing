@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion8Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCBB013-3CFF-4812-B5B4-426C80A428B3}|Seccion8Dictionary\\Seccion8Dictionary.csproj|c:\\users\\victor.maureira.g\\source\\repos\\seccion8dictionary\\seccion8dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCBB013-3CFF-4812-B5B4-426C80A428B3}|Seccion8Dictionary\\Seccion8Dictionary.csproj|solutionrelative:seccion8dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion8Dictionary\\Seccion8Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Seccion8Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Seccion8Dictionary\\Seccion8Dictionary\\Program.cs",
+              "RelativeToolTip": "Seccion8Dictionary\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:53:12.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.maureira.g\\source\\repos\\Tarea9Ejer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69949710-025A-4AF6-AB61-8EA13A25FEF3}|Tarea9Ejer\\Tarea9Ejer.csproj|c:\\users\\victor.maureira.g\\source\\repos\\tarea9ejer\\tarea9ejer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69949710-025A-4AF6-AB61-8EA13A25FEF3}|Tarea9Ejer\\Tarea9Ejer.csproj|solutionrelative:tarea9ejer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.maureira.g\\source\\repos\\Tarea9Ejer\\Tarea9Ejer\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea9Ejer\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.maureira.g\\source\\repos\\Tarea9Ejer\\Tarea9Ejer\\Program.cs",
+              "RelativeToolTip": "Tarea9Ejer\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:45:54.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

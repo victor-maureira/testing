@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\bin\Debug\Seccion8Colecciones.exe.config
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\bin\Debug\Seccion8Colecciones.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\bin\Debug\Seccion8Colecciones.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\obj\Debug\Seccion8Colecciones.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\obj\Debug\Seccion8Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\obj\Debug\Seccion8Colecciones.exe
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\obj\Debug\Seccion8Colecciones.pdb
+C:\Users\victor.maureira.g\source\repos\Seccion8Colecciones\Seccion8Colecciones\obj\Debug\Seccion8Colecciones.exe.config

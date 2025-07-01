@@ -1,0 +1,8 @@
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\bin\Debug\Tarea9Ejer.exe.config
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\bin\Debug\Tarea9Ejer.exe
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\bin\Debug\Tarea9Ejer.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\obj\Debug\Tarea9Ejer.csproj.AssemblyReference.cache
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\obj\Debug\Tarea9Ejer.csproj.CoreCompileInputs.cache
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\obj\Debug\Tarea9Ejer.exe
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\obj\Debug\Tarea9Ejer.pdb
+C:\Users\victor.maureira.g\source\repos\Tarea9Ejer\Tarea9Ejer\obj\Debug\Tarea9Ejer.exe.config
